@@ -100,21 +100,21 @@ window.App = (function() {
       const name = (item.name || '').toLowerCase();
       const category = (item.category || '').toLowerCase();
       // Clothing
-      if (name.includes('t-shirt') || name.includes('tee')) return '/assets/products/tshirt.svg';
-      if (name.includes('hoodie')) return '/assets/products/hoodie.svg';
-      if (name.includes('jeans') || name.includes('denim')) return '/assets/products/jeans.svg';
-      if (name.includes('jogger') || name.includes('pants')) return '/assets/products/joggers.svg';
-      if (name.includes('jacket') || name.includes('windbreaker') || name.includes('puffer')) return '/assets/products/jacket.svg';
-      if (name.includes('socks')) return '/assets/products/socks.svg';
+      if (name.includes('t-shirt') || name.includes('tee')) return '/assets/products/tshirt.png';
+      if (name.includes('hoodie')) return '/assets/products/hoodie.png';
+      if (name.includes('jeans') || name.includes('denim')) return '/assets/products/jeans.png';
+      if (name.includes('jogger') || name.includes('pants')) return '/assets/products/joggers.png';
+      if (name.includes('jacket') || name.includes('windbreaker') || name.includes('puffer')) return '/assets/products/jacket.png';
+      if (name.includes('socks')) return '/assets/products/socks.png';
       // Shoes
-      if (category === 'shoes' || name.includes('sneaker') || name.includes('shoe')) return '/assets/products/sneakers.svg';
+      if (category === 'shoes' || name.includes('sneaker') || name.includes('shoe')) return '/assets/products/sneakers.png';
       // Electronics
-      if (name.includes('headphone')) return '/assets/products/headphones.svg';
-      if (name.includes('earbud')) return '/assets/products/earbuds.svg';
-      if (name.includes('smartwatch') || name.includes('watch')) return '/assets/products/watch.svg';
-      if (name.includes('speaker')) return '/assets/products/speaker.svg';
-      if (name.includes('camera')) return '/assets/products/camera.svg';
-      if (name.includes('charger') || name.includes('charging')) return '/assets/products/charger.svg';
+      if (name.includes('headphone')) return '/assets/products/headphones.png';
+      if (name.includes('earbud')) return '/assets/products/earbuds.png';
+      if (name.includes('smartwatch') || name.includes('watch')) return '/assets/products/watch.png';
+      if (name.includes('speaker')) return '/assets/products/speaker.png';
+      if (name.includes('camera')) return '/assets/products/camera.png';
+      if (name.includes('charger') || name.includes('charging')) return '/assets/products/charger.png';
       // Fallback
       return placeholderFor(item);
     }
