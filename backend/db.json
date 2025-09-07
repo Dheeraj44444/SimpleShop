@@ -1,0 +1,294 @@
+{
+  "users": [
+    {
+      "id": "8d1188f2-ef26-4604-83ed-e5ee1c4e3569",
+      "email": "dheeru@gmail.com",
+      "passwordHash": "$2b$10$OOChGe1IgcZgViCLzRkK/uEgFYrkMPaG3cVgTPRh6hnB8imCeg2Iu"
+    },
+    {
+      "id": "d5591424-2a4a-4548-b3ef-376a9016d0a1",
+      "email": "piyu@gmail.com",
+      "passwordHash": "$2b$10$KNr9Mlj8NJvncyVtWOrFWOv1EGPqc03aG4cDVGKn32ZxJCB4CfXyi"
+    }
+  ],
+  "items": [
+    {
+      "id": "seed-1",
+      "name": "T-Shirt",
+      "price": 499,
+      "category": "clothing",
+      "description": "Cotton tee",
+      "image": "/assets/products/tshirt.svg",
+      "rating": 4
+    },
+    {
+      "id": "seed-2",
+      "name": "Jeans",
+      "price": 1499,
+      "category": "clothing",
+      "description": "Denim jeans",
+      "image": "/assets/products/jeans.svg",
+      "rating": 4
+    },
+    {
+      "id": "seed-3",
+      "name": "Sneakers",
+      "price": 2999,
+      "category": "shoes",
+      "description": "Running shoes",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 5
+    },
+    {
+      "id": "seed-4",
+      "name": "Headphones",
+      "price": 3499,
+      "category": "electronics",
+      "description": "Over-ear",
+      "image": "/assets/products/headphones.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-001",
+      "name": "Classic Cotton T-Shirt",
+      "price": 599,
+      "category": "clothing",
+      "description": "Soft breathable cotton tee.",
+      "image": "/assets/products/tshirt.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-002",
+      "name": "Premium Crewneck Tee",
+      "price": 699,
+      "category": "clothing",
+      "description": "Premium knit with tailored fit.",
+      "image": "/assets/products/tshirt.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-003",
+      "name": "Slim Fit Jeans",
+      "price": 1599,
+      "category": "clothing",
+      "description": "Stretch denim, mid-rise.",
+      "image": "/assets/products/jeans.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-004",
+      "name": "Relaxed Fit Jeans",
+      "price": 1299,
+      "category": "clothing",
+      "description": "Casual cut for everyday wear.",
+      "image": "/assets/products/jeans.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-005",
+      "name": "Hoodie - Fleece Lined",
+      "price": 1199,
+      "category": "clothing",
+      "description": "Cozy fleece for cooler days.",
+      "image": "/assets/products/hoodie.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-006",
+      "name": "Athletic Joggers",
+      "price": 999,
+      "category": "clothing",
+      "description": "Moisture-wicking performance.",
+      "image": "/assets/products/joggers.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-007",
+      "name": "Classic White Sneakers",
+      "price": 2499,
+      "category": "shoes",
+      "description": "Minimal everyday sneaker.",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-008",
+      "name": "Running Shoes",
+      "price": 2799,
+      "category": "shoes",
+      "description": "Cushioned for long runs.",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-009",
+      "name": "Trail Sneakers",
+      "price": 2999,
+      "category": "shoes",
+      "description": "Grippy outsole for trails.",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-010",
+      "name": "High-Top Sneakers",
+      "price": 2699,
+      "category": "shoes",
+      "description": "Retro-inspired high tops.",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-011",
+      "name": "Noise-Canceling Headphones",
+      "price": 4999,
+      "category": "electronics",
+      "description": "Immersive sound and ANC.",
+      "image": "/assets/products/headphones.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-012",
+      "name": "Wireless Earbuds",
+      "price": 1999,
+      "category": "electronics",
+      "description": "Compact with rich bass.",
+      "image": "/assets/products/earbuds.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-013",
+      "name": "Smartwatch",
+      "price": 5999,
+      "category": "electronics",
+      "description": "Fitness and notifications.",
+      "image": "/assets/products/watch.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-014",
+      "name": "Bluetooth Speaker",
+      "price": 2499,
+      "category": "electronics",
+      "description": "Portable party starter.",
+      "image": "/assets/products/speaker.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-015",
+      "name": "Graphic Tee",
+      "price": 799,
+      "category": "clothing",
+      "description": "Bold print on soft cotton.",
+      "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?q=80&w=800&auto=format&fit=crop",
+      "rating": 4
+    },
+    {
+      "id": "p-016",
+      "name": "Puffer Jacket",
+      "price": 3999,
+      "category": "clothing",
+      "description": "Warm and lightweight.",
+      "image": "/assets/products/jacket.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-017",
+      "name": "Performance Socks (3-pack)",
+      "price": 299,
+      "category": "clothing",
+      "description": "Breathable cushioned socks.",
+      "image": "https://images.unsplash.com/photo-1542216252-9f401a726b2b?q=80&w=800&auto=format&fit=crop",
+      "rating": 4
+    },
+    {
+      "id": "p-018",
+      "name": "Trail Running Shoes",
+      "price": 3199,
+      "category": "shoes",
+      "description": "Stability and traction.",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-019",
+      "name": "Leather Sneakers",
+      "price": 2899,
+      "category": "shoes",
+      "description": "Premium leather upper.",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-020",
+      "name": "Over-Ear Studio Headphones",
+      "price": 6499,
+      "category": "electronics",
+      "description": "Reference-grade clarity.",
+      "image": "/assets/products/headphones.svg",
+      "rating": 5
+    },
+    {
+      "id": "p-021",
+      "name": "4K Action Camera",
+      "price": 9999,
+      "category": "electronics",
+      "description": "Adventure-ready footage.",
+      "image": "/assets/products/camera.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-022",
+      "name": "Lightweight Windbreaker",
+      "price": 1799,
+      "category": "clothing",
+      "description": "Packable wind protection.",
+      "image": "/assets/products/jacket.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-023",
+      "name": "Canvas Sneakers",
+      "price": 1999,
+      "category": "shoes",
+      "description": "Casual canvas comfort.",
+      "image": "/assets/products/sneakers.svg",
+      "rating": 4
+    },
+    {
+      "id": "p-024",
+      "name": "Wireless Charging Pad",
+      "price": 999,
+      "category": "electronics",
+      "description": "Fast charge, slim design.",
+      "image": "/assets/products/charger.svg",
+      "rating": 4
+    }
+  ],
+  "carts": {
+    "8d1188f2-ef26-4604-83ed-e5ee1c4e3569": [
+      {
+        "itemId": "seed-1",
+        "quantity": 2
+      },
+      {
+        "itemId": "seed-2",
+        "quantity": 1
+      }
+    ],
+    "d5591424-2a4a-4548-b3ef-376a9016d0a1": [
+      {
+        "itemId": "seed-2",
+        "quantity": 1
+      },
+      {
+        "itemId": "seed-3",
+        "quantity": 1
+      },
+      {
+        "itemId": "seed-4",
+        "quantity": 1
+      }
+    ]
+  }
+}
